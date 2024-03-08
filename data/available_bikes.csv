@@ -1,0 +1,138 @@
+station_id,name,lon,lat,address,num_bikes_available,num_bikes_disabled,last_reported
+hub_2570,Athletic Centre Bike Racks,-79.91574570536613,43.26471509784132,"Stearn Drive, McMaster University, Hamilton",23,0,2024-03-07 23:27:49
+hub_624,McMaster Health Sciences,-79.91824820637703,43.26053126154136,"CIBC, University Avenue, Westdale, Hamilton, Ontario",17,0,2024-03-07 23:27:49
+hub_626,McMaster Stadium,-79.91868138313293,43.26462232214244,"Stearn Drive, McMaster University, Hamilton",16,0,2024-03-07 23:27:49
+hub_583,Discovery Drive,-79.86029773950577,43.27606684636728,"Waterfront Trail, Hamilton",14,0,2024-03-07 23:27:49
+hub_547,Westdale Village,-79.90508794784544,43.26201477888108,"25 Marion Avenue South, Hamilton",13,0,2024-03-07 23:27:49
+hub_551,Longwood at Edgevale,-79.8993094512,43.2662112220324,"78, Longwood Road North, Westdale, Hamilton, Ontario",13,0,2024-03-07 23:27:49
+hub_545,Emerson at Whitney,-79.9222158171462,43.2521423210113,"202, Emerson Street, University Gardens, Hamilton, Ontario",13,0,2024-03-07 23:27:49
+hub_574,Bay at Bold,-79.8753935613187,43.2538302267771,"100 Bold Street, Hamilton",12,0,2024-03-07 23:27:49
+hub_582,Hughson at Picton,-79.861626657542,43.2701169222876,"448, Hughson Street North, North End, Hamilton, Ontario",11,0,2024-03-07 23:27:49
+hub_631,Hunter GO Centre,-79.86953258514404,43.253329975544275,"36 Hunter Street East, Hamilton",10,0,2024-03-07 23:27:49
+hub_625,McMaster Mary Keyes,-79.92224670946598,43.262460120020584,"Matthews Hall, Scholars Road, Westdale, Hamilton, Ontario",10,0,2024-03-07 23:27:49
+hub_593,Victoria at Barton,-79.853318631649,43.26124519046125,"286-300 Victoria Avenue North, Hamilton",10,0,2024-03-07 23:27:49
+hub_576,Bay at York,-79.87338691949844,43.25906138152248,"55 Bay Street North, Hamilton",10,0,2024-03-07 23:27:49
+hub_555,McMaster Innovation Park,-79.9011692404747,43.25656885270854,"175 Longwood Road South, Hamilton",10,0,2024-03-07 23:27:49
+hub_6157,Westdale Aviary,-79.90748047828674,43.26486897083389,"85, Oak Knoll Drive, Westdale, Hamilton, Ontario",10,0,2024-03-07 23:27:49
+hub_5845,Jackson Square,-79.86957684159279,43.25693469264953,"2-44 King Street West, Hamilton",10,0,2024-03-07 23:27:49
+hub_707,McMaster Student Centre,-79.91714715957642,43.26274333966465,"Sterling Street, McMaster University, Hamilton",9,0,2024-03-07 23:27:49
+hub_905,Tisdale at Main,-79.85307991504669,43.25191559879094,"9-23 Tisdale Street South, Hamilton",9,0,2024-03-07 23:27:49
+hub_613,Maplewood at Springer,-79.83708053827286,43.245150946389735,"71, Maplewood Avenue, Hamilton, Ontario",9,0,2024-03-07 23:27:49
+hub_778,Aberdeen at Studholme,-79.899692892407,43.2526283084979,"34 Studholme Road, Hamilton",9,0,2024-03-07 23:27:49
+hub_560,King at Dundurn,-79.88798081874847,43.26240933566922,"9-11 Dundurn Street North, Hamilton",9,0,2024-03-07 23:27:49
+hub_579,Bayfront Park,-79.87132698297499,43.269288276229105,"Harbour Front Drive, North End, Hamilton, Ontario",9,0,2024-03-07 23:27:49
+hub_765,Princess Point,-79.8945270389426,43.2729912871819,"809 Desjardins Recreation Trail, Hamilton",8,0,2024-03-07 23:27:49
+hub_608,James at Colbourne,-79.8660421593136,43.2637774120007,"295 James Street North, Hamilton",8,0,2024-03-07 23:27:49
+hub_5846,Cannon at Steven,-79.84998129308224,43.25646071175471,"400-408 Cannon Street East, Hamilton",8,0,2024-03-07 23:27:49
+hub_571,Oxford at York,-79.8777937889099,43.26456372689135,"40-48 Oxford Street, Hamilton",8,0,2024-03-07 23:27:49
+hub_623,McMaster Arthur Bourns,-79.922358671032,43.2599690032886,"2000 College Court, McMaster University, Hamilton",8,0,2024-03-07 23:27:49
+hub_557,Dundurn at Aberdeen,-79.89265590906143,43.251458458948996,"330-346 Dundurn Street South, Hamilton",8,0,2024-03-07 23:27:49
+hub_567,Charlton at Queen,-79.88158643245697,43.25200741706332,"195 Charlton Avenue West, Hamilton",8,0,2024-03-07 23:27:49
+hub_1287,Cannon at Ottawa,-79.8180502653122,43.2475653052787,"1182-1188 Cannon Street East, Hamilton",7,0,2024-03-07 23:27:49
+hub_5333,Main at Dalewood,-79.91383865476678,43.25802547698811,"1150-1152 Main Street West, Hamilton",7,0,2024-03-07 23:27:49
+hub_530,Cootes at York and King,-79.94965553283691,43.26558132306987,"10 Cootes Drive, Hamilton",7,0,2024-03-07 23:27:49
+hub_538,Whitney at Lower Horning,-79.9354198942367,43.2518522355378,"377, Whitney Avenue, University Gardens, Hamilton, Ontario",7,0,2024-03-07 23:27:49
+hub_563,Locke at Hunter,-79.88510146737099,43.256556155396176,"137, Locke Street South, Hess Village, Hamilton, Ontario",7,0,2024-03-07 23:27:49
+hub_558,Dundurn St S,-79.8909067737901,43.2548127612063,"229-233 Dundurn Street South, Hamilton",7,0,2024-03-07 23:27:49
+hub_802,Hess at king,-79.87721174955368,43.259125842121065,"15 Hess Street North, Hamilton",7,0,2024-03-07 23:27:49
+hub_609,Ferguson at King,-79.86223563551903,43.25400491861888,"4523 Ferguson Avenue South, Hamilton",7,0,2024-03-07 23:27:49
+hub_436,James North at Mulberry,-79.86674308776855,43.26181945279216,"200 James Street North, Hamilton",7,0,2024-03-07 23:27:49
+hub_596,Wentworth Stairs,-79.85186353325844,43.24487936776345,"203 Wentworth Street South, Hamilton",6,0,2024-03-07 23:27:49
+hub_536,Main at Whitney,-79.93979036808014,43.25205234935895,"1850, Main Street West, University Gardens, Ancaster, Hamilton, Ontario",6,0,2024-03-07 23:27:49
+hub_601,Stinson at West,-79.859726111821,43.2494985579078,"93, West Avenue South, Corktown, Hamilton, Ontario",6,0,2024-03-07 23:27:49
+hub_585,Eastwood Arena,-79.856711442486,43.271621271914,"111, Burlington Street East, North End, Hamilton, Ontario",6,0,2024-03-07 23:27:49
+hub_2922,King at Dunsmure - ERI09,-79.82685998082161,43.24634382646498,"304 Dunsmure Road, Hamilton",6,0,2024-03-07 23:27:49
+hub_614,Gage Park,-79.83040988445282,43.24344818701565,"190 Gage Avenue South, Hamilton",6,0,2024-03-07 23:27:49
+hub_605,Wentworth at King,-79.84910354018211,43.25199038416551,"16 Wentworth Street South, Hamilton",6,0,2024-03-07 23:27:49
+hub_535,Osler at Grant,-79.9426434441838,43.2595496051254,"89-101 Osler Drive, Hamilton",6,0,2024-03-07 23:27:49
+hub_1253,Main at Eastbourne,-79.84201848506926,43.24814116192469,"700 Main Street East, Hamilton",6,0,2024-03-07 23:27:49
+hub_959,West Harbour GO Station,-79.86611008644103,43.26624929442286,"282 MacNab Street North, Hamilton",6,0,2024-03-07 23:27:49
+hub_780,John at Main,-79.86718028783798,43.254529435061336,"57 John Street South, Hamilton",6,0,2024-03-07 23:27:49
+hub_1252,Cumberland at Blake ,-79.84050840139389,43.24333095563425,"237-243 Cumberland Avenue, Hamilton",6,0,2024-03-07 23:27:49
+hub_5402,Pearl Street Bridge,-79.88345324993132,43.25650634283747,"107 Pearl Street South, Hamilton",6,0,2024-03-07 23:27:49
+hub_541,King at Cline,-79.9092948353051,43.2605367847852,"1108 King Street West, Hamilton",6,0,2024-03-07 23:27:49
+hub_570,Queen at Peter,-79.877606006297,43.2618861338306,"80, Queen Street North, Hess Village, Hamilton, Ontario",5,0,2024-03-07 23:27:49
+hub_2921,Maple at Rothsay - ERI08,-79.8250025510788,43.24216273334376,"394 Maple Avenue, Hamilton",5,0,2024-03-07 23:27:49
+hub_590,Ferguson at Cannon,-79.8598228455297,43.2587508364231,"156, Cannon Street East, Beasley, Hamilton, Ontario",5,0,2024-03-07 23:27:49
+hub_580,Ainslie at Emerson,-79.9234422627427,43.2495181157076,"65 Ainslie Avenue, Hamilton",5,0,2024-03-07 23:27:49
+hub_562,Charlton at Locke,-79.886634349823,43.25332704523968,"321 Charlton Avenue West, Hamilton",5,0,2024-03-07 23:27:49
+hub_1063,Main and Wellington,-79.86008584499359,43.25281814686537,"250 Main Street East, Hamilton",5,0,2024-03-07 23:27:49
+hub_606,Bay at Macaulay,-79.86627101898192,43.272362258983364,"492 Bay Street North, Hamilton",5,0,2024-03-07 23:27:49
+hub_537,Osler at Main,-79.9342255404988,43.2572539435115,"1686 Main Street West, Hamilton",5,0,2024-03-07 23:27:49
+hub_527,Seedworks,-79.86361294984816,43.25911119199103,"126 Catharine Street North, Hamilton",5,0,2024-03-07 23:27:49
+hub_549,Main at Columbia College,-79.90785866975784,43.2585671813327,"82 Newton Avenue, Hamilton",5,0,2024-03-07 23:27:49
+hub_712,West at Cannon,-79.8561337635964,43.257877862291,"144 West Avenue North, Hamilton",4,0,2024-03-07 23:27:49
+hub_612,Delaware at Myrtle,-79.8495236914621,43.2480454302898,"17, Delaware Avenue, Inch Park, Hamilton, Ontario",4,0,2024-03-07 23:27:49
+hub_866,Augusta at John,-79.86898005008698,43.251632328780424,"62-64 Augusta Street, Hamilton",4,0,2024-03-07 23:27:49
+hub_921,Frid at Main,-79.89262372255325,43.25940517059312,"44 Frid Street, Hamilton",4,0,2024-03-07 23:27:49
+hub_546,Rail Trail at Emerson,-79.9208028150996,43.2546745875963,"Hamilton Brantford Rail Trail, Emerson Street, Westdale, Hamilton, Ontario",4,0,2024-03-07 23:27:49
+hub_2919,Barton at Ottawa - ERI06,-79.81602117419243,43.25147804372769,"437-443 Ottawa Street North, Hamilton",4,0,2024-03-07 23:27:49
+hub_604,Cannon at Wentworth - 96,-79.8475054418754,43.2559617394464,"451, Cannon Street East, Beasley, Hamilton, Ontario",4,0,2024-03-07 23:27:49
+hub_577,Bay at Mulberry,-79.87180307507515,43.263198441574474,"177, Bay Street North, Hess Village, Hamilton, Ontario",4,0,2024-03-07 23:27:49
+hub_5836,King at Barnesdale,-79.83547054231167,43.25124627968789,"976 King Street East, Hamilton",4,0,2024-03-07 23:27:49
+hub_544,Westdale Library,-79.90359663963316,43.262715994377196,"955 King Street West, Hamilton",4,0,2024-03-07 23:27:49
+hub_552,Chedoke Stairs,-79.90823779724,43.2460802627748,"Chedoke Park, Hamilton, Ontario",4,0,2024-03-07 23:27:49
+hub_5702,Locke at Herkimer,-79.88658607006073,43.252499716928924,"240-260 Herkimer Street, Hamilton",4,0,2024-03-07 23:27:49
+hub_559,Main at Dundurn,-79.8892092704773,43.25966301112219,"91 Dundurn Street South, Hamilton",4,0,2024-03-07 23:27:49
+hub_565,York at Inchbury,-79.8819495909127,43.2659146108256,"460 York Boulevard, Hamilton",4,0,2024-03-07 23:27:49
+hub_2926,Westinghouse at Barton - ERI13,-79.84240606427193,43.25831920066756,"9 Westinghouse Avenue, Hamilton",4,0,2024-03-07 23:27:49
+hub_540,Sanders at Hollywood,-79.9264810904732,43.2599031676959,"26, Sanders Boulevard, University Gardens, Hamilton, Ontario",4,0,2024-03-07 23:27:49
+hub_572,Durand Park,-79.87574994564056,43.24978615747242,"250 Park Street South, Hamilton",4,0,2024-03-07 23:27:49
+hub_578,Bay at Strachan,-79.8679232597351,43.26785864558976,"325 Bay Street North, Hamilton",4,0,2024-03-07 23:27:49
+hub_586,Catharine at Forest,-79.8677950761702,43.2496648107707,"175 Catharine Street South, Hamilton",4,0,2024-03-07 23:27:49
+hub_602,King William at Victoria,-79.85582381486893,43.254154362311304,"338, King William Street, Beasley, Hamilton, Ontario",4,0,2024-03-07 23:27:49
+hub_599,Corktown Park,-79.8641461491451,43.2492552510953,"174, Ferguson Avenue South, Corktown, Hamilton, Ontario",4,0,2024-03-07 23:27:49
+hub_2917,Barton at Lottridge - ERI03,-79.83144521713257,43.2552894386678,"779-781 Barton Street East, Hamilton",4,0,2024-03-07 23:27:49
+hub_597,Stinson at Blythe,-79.8550984051804,43.2480282225403,"12-38 Blythe Street, Hamilton",4,0,2024-03-07 23:27:49
+hub_904,King William at Hughson,-79.86643463373184,43.2569048421661,"55 King William Street, Hamilton",4,0,2024-03-07 23:27:49
+hub_5838,King at Sanford,-79.84635829925537,43.251884127702,"735, King Street East, Hamilton, Ontario",4,0,2024-03-07 23:27:49
+hub_2918,Barton and Belview - ERI05,-79.82217215001583,43.252910500996364,"954 Barton Street East, Hamilton",3,0,2024-03-07 23:27:49
+hub_4093,James at Vine,-79.86767515540123,43.25971184443275,"108-112 James Street North, Hamilton",3,0,2024-03-07 23:27:49
+hub_5790,Beasley Park,-79.86106485128403,43.25891916811838,"55 Elgin Street, Hamilton",3,0,2024-03-07 23:27:49
+hub_960,Pier 4,-79.86689731478691,43.27260051521549,"50 Leander Drive, Hamilton",3,0,2024-03-07 23:27:49
+hub_2920,Ottawa at Dunsmure - ERI07,-79.81923043727875,43.2444465978823,"463 Dunsmure Road, Hamilton",3,0,2024-03-07 23:27:49
+hub_2915,Mars at Wentworth - ERI01,-79.84364993870258,43.26534015820083,"100 Mars Avenue, Hamilton",3,0,2024-03-07 23:27:49
+hub_924,James at Guise,-79.86182928085327,43.27365898786445,"1 Guise Street West, Hamilton",3,0,2024-03-07 23:27:49
+hub_2925,Belview at Cannon - ERI12,-79.82342541217804,43.248928499066146,"1065 Cannon Street East, Hamilton",3,0,2024-03-07 23:27:49
+hub_5426,Hill Street Park,-79.88822355870525,43.25672417073905,"22 Hill Street, Hamilton",3,0,2024-03-07 23:27:49
+hub_607,Haymarket at Hughson,-79.86883386969566,43.2523698048509,"22 Haymarket Street, Hamilton",3,0,2024-03-07 23:27:49
+hub_581,Strachan at Mary,-79.86042380332947,43.265938747249415,"101 Strachan Street East, Hamilton",3,0,2024-03-07 23:27:49
+hub_550,Longwood at King,-79.9009418422827,43.2630174571678,"881, King Street West, Westdale, Hamilton, Ontario",3,0,2024-03-07 23:27:49
+hub_594,Cannon at East,-79.85334813594818,43.25729552525069,"326, Cannon Street East, Beasley, Hamilton, Ontario",3,0,2024-03-07 23:27:49
+hub_598,Hunter at Ferguson,-79.86318781971931,43.251798383773966,"175, Hunter Street East, Corktown, Hamilton, Ontario",3,0,2024-03-07 23:27:49
+hub_575,City Hall,-79.8744987564414,43.2561324863605,"58 Bay Street South, Hamilton",3,0,2024-03-07 23:27:49
+hub_566,Aberdeen at Queen,-79.8836993988543,43.2488085584277,"ABERDEEN at SPRUCESIDE, Hamilton",3,0,2024-03-07 23:27:49
+hub_564,Locke at Napier,-79.8827367298478,43.2628018805713,"64, Locke Street North, Hess Village, Hamilton, Ontario",3,0,2024-03-07 23:27:49
+hub_894,Forsyth at Sterling,-79.91580605506897,43.26271404114188,"88 Forsyth Avenue North, Hamilton",3,0,2024-03-07 23:27:49
+hub_543,Sterling at Haddon,-79.91026729345322,43.26202552179778,"71 Sterling Street, Hamilton",3,0,2024-03-07 23:27:49
+hub_539,Sanders at Binkley,-79.92979913949966,43.25875372772543,"58, Sanders Boulevard, University Gardens, Hamilton, Ontario",3,0,2024-03-07 23:27:49
+hub_830,Rifle Range at Rail Trail,-79.9298771288198,43.2554850097816,"64 Rifle Range Road, Hamilton",3,0,2024-03-07 23:27:49
+hub_553,Main at Longwood,-79.90210264921188,43.25960441109783,"122 Longwood Road South, Hamilton",2,0,2024-03-07 23:27:49
+hub_588,Ferguson at Barton,-79.8582423171631,43.262056982995,"186, Ferguson Avenue North, Beasley, Hamilton, Ontario",2,0,2024-03-07 23:27:49
+hub_569,Hunter at Hess,-79.87889617681503,43.255383107655966,"131-133 Hess Street South, Hamilton",2,0,2024-03-07 23:27:49
+hub_2924,King George,-79.82740849256516,43.25112644429895,"75-77 Gage Avenue North, Hamilton",2,0,2024-03-07 23:27:49
+hub_5903,Pier 8,-79.85690742731094,43.27528883070137,"595 Catharine Street North, Hamilton",2,0,2024-03-07 23:27:49
+hub_6148,King William at James,-79.86848652362822,43.25763541749527,"39 King William Street, Hamilton",2,0,2024-03-07 23:27:49
+hub_554,Macklin at King,-79.8964982026467,43.2621672804245,"768, King Street West, McMaster Innovation Park, Hamilton, Ontario",2,0,2024-03-07 23:27:49
+hub_435,Gore Park,-79.86866354942322,43.256316859398744,"20 King Street East, Hamilton",2,0,2024-03-07 23:27:49
+hub_622,McMaster Emerson,-79.91978779435158,43.258038792898375,"Main Street West, Emerson at Main, Hamilton",2,0,2024-03-07 23:27:49
+hub_779,Hunter at Park,-79.8733946157064,43.2543192007999,"61 Hurst Place, Hamilton",2,0,2024-03-07 23:27:49
+hub_610,Cannon at Birch (Powell Park),-79.84128892421722,43.25504613306136,"72 Harvey Street, Hamilton",2,0,2024-03-07 23:27:49
+hub_1468,270 Sherman,-79.83437284827232,43.26044140942891,"272, Sherman Avenue North, Hamilton, Ontario",2,0,2024-03-07 23:27:49
+hub_1397,King at Mary,-79.86437804996967,43.25519606248058,"151-163 Hamilton Regional Road 8, Hamilton",2,0,2024-03-07 23:27:49
+hub_589,Ferrie at Ferguson,-79.85489845275879,43.266617945064255,"206, Ferrie Street East, North End, Hamilton, Ontario",1,0,2024-03-07 23:27:49
+hub_945,Stadium,-79.83134329318999,43.25161474646046,"17A Cannon Street East, Hamilton",1,0,2024-03-07 23:27:49
+hub_867,Queen at George,-79.8793575167656,43.25812181171754,"34-54 Queen Street South, Hamilton",1,0,2024-03-07 23:27:49
+hub_709,Park at Robinson,-79.8749090863127,43.2515957745917,"80-92 Robinson Street, Hamilton",1,0,2024-03-07 23:27:49
+hub_548,Rail Trail at Stroud,-79.9166152756283,43.2535916384655,"Hamilton Brantford Rail Trail, Emerson Street, Westdale, Hamilton, Ontario",1,0,2024-03-07 23:27:49
+hub_708,York at Macnab,-79.86919194459914,43.25901059433612,"25 York Boulevard, Hamilton",1,0,2024-03-07 23:27:49
+hub_5827,John near King,-79.86623145639896,43.25652795268133,"16 John Street North, Hamilton",1,0,2024-03-07 23:27:49
+hub_556,Dundurn Stairs,-79.8947787566411,43.2465214141618,"534, Dundurn Street South, Chedoke Park, Hamilton, Ontario",1,0,2024-03-07 23:27:49
+hub_591,Ferguson at King William,-79.8614431097373,43.2551792486624,"4-12 Ferguson Avenue North, Hamilton",1,0,2024-03-07 23:27:49
+hub_568,H.A.A.A. Park,-79.8819466027797,43.2540651616154,"251 Duke Street, Hamilton",1,0,2024-03-07 23:27:49
+hub_3885,George Street,-79.87894982099533,43.25851444036409,"118, George Street, Hess Village, Hamilton, Ontario",1,0,2024-03-07 23:27:49
+hub_2868,King Street Dundas,-79.95375394821166,43.26595632543361,"6-8 Main Street, Hamilton",1,0,2024-03-07 23:27:49
+hub_2869,Cootes Drive Dundas,-79.94765996932983,43.26547419149645,"11 Court Street, Hamilton",1,0,2024-03-07 23:27:49
+hub_603,Barton at Wentworth,-79.8449581861496,43.25893246012055,"501 Barton Street East, Hamilton",1,0,2024-03-07 23:27:49
+hub_2923,Dunsmure at Sherman - ERI10,-79.8388883471489,43.24943274108067,"44 Dunsmure Road, Hamilton",1,0,2024-03-07 23:27:49
+hub_903,Duke at James,-79.87135380506516,43.25163037518954,"180 James Street South, Hamilton",1,0,2024-03-07 23:27:49
