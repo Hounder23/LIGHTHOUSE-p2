@@ -25,9 +25,9 @@ Using the DF from the last step the next obecive was to use the Longitude and La
 
 ### EDA and visualizations
 
-This part felt a little vague because there was no immidiate obvious pattern for me to breakdown and it was at this stage in my process where i decided to investigate the relationship between the `average distance each venue result is from each bike station` and the `distance between the bike station and the city center`. I created visualizations based on this idea. All my investigative plots are available in the `\\data\\...` directory of this github but here are the main one showing the linear regression plots 
+This part felt a little vague because there was no immidiate obvious pattern for me to breakdown and it was at this stage in my process where i decided to investigate the relationship between the `average distance each venue result is from each bike station` and the `distance between the bike station and the city center`. I created visualizations based on this idea. All my investigative plots are available in the `\\data\\...` directory of this github but here are the main one showing the linear regression plots
 
-for FS !['Linear regression plot comparing average distance between each venue and the venues distance to downtown hamilton'](https://github.com/Hounder23/LIGHTHOUSE-p2/blob/main/images/LINEAR%20REG%20FS%20-%20AVG%20VENU%20DIST%20vs%20DIST%20TO%20CENTER%20.png) 
+for FS !['Linear regression plot comparing average distance between each venue and the venues distance to downtown hamilton'](https://github.com/Hounder23/LIGHTHOUSE-p2/blob/main/images/LINEAR%20REG%20FS%20-%20AVG%20VENU%20DIST%20vs%20DIST%20TO%20CENTER%20.png)
 
 and Yelp ![Linear regression plot comparing average distance between each venue and the venues distance to downtown hamilton](https://github.com/Hounder23/LIGHTHOUSE-p2/blob/main/images/LINEAR%20REG%20YELP%20-%20AVG%20VENU%20DIST%20vs%20DIST%20TO%20CENTER%20.png)
 
